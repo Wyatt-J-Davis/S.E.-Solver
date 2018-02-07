@@ -1,6 +1,6 @@
 # S.E. Solver
 ## Description
-Solves 1D time-dependent Schrödinger equation. Utilizes Crank–Nicolson finite difference algorithm to determine numberical solution. Includes visualization of electron wave function modulus as it evolves within given potential. 
+Solves 1D time-dependent Schrödinger equation. Utilizes Crank–Nicolson finite difference algorithm to determine numerical solution. Includes visualization of electron wave function modulus as it evolves within a potential. 
 
 See demo of quantum harmonic oscillator [here](https://drive.google.com/file/d/1DFXYHyoM9CH1lc0DtA5M-kPN5vvmO5dv/view?usp=sharing)
 
